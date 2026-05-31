@@ -7,3 +7,4 @@ artifacts
 *.abi
 *.bin
 *.tsbuildinfo
+.vercel
